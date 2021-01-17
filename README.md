@@ -6,4 +6,3 @@
 --------------------
 - 해당 문서를 다시 봤을 때, 추가적인 검색 비용이 들지 않도록 자세히 기록한다.
 - 폴더와 파일명은 영문으로 작성한다.
-- [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/)으로 작성한다.
