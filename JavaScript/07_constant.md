@@ -4,7 +4,6 @@
 <br>
 
 ## 대문자 표기
------------------
 ~~~javascript
 var NUM = 123; // 이 값은 변하지 않는 것임!! 한 것
 NUM = 456; // but, 변경가능
@@ -16,7 +15,6 @@ NUM = 456; // but, 변경가능
 <br>
 
 ## JS에서 제공하는 상수
-------------------
 ~~~javascript
 Number.MAX_VALUE
 Number.MIN_VALUE

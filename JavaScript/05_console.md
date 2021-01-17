@@ -5,6 +5,5 @@
 <br>
 
 ## JS에서 제공하는 것은 아님
-----------------------
   - [console API 참조](https://console.spec.whatwg.org/)
   - [console API 설명 블로그 글](https://velog.io/@dlrmsghks7/LearnconsoleAPI)
